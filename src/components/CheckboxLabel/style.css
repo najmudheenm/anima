@@ -1,0 +1,53 @@
+.checkbox-label {
+  height: 30px;
+  position: relative;
+  width: 82px;
+}
+
+.checkbox-label .checkbox-instance {
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.checkbox-label .label {
+  font-family: var(--all-viewports-paragraph-font-family);
+  font-size: var(--all-viewports-paragraph-font-size);
+  font-style: var(--all-viewports-paragraph-font-style);
+  font-weight: var(--all-viewports-paragraph-font-weight);
+  left: 40px;
+  letter-spacing: var(--all-viewports-paragraph-letter-spacing);
+  line-height: var(--all-viewports-paragraph-line-height);
+  position: absolute;
+  top: 2px;
+  white-space: nowrap;
+  width: 42px;
+}
+
+.checkbox-label .checkbox-label-base-unchecked {
+  color: var(--greyscale-15);
+}
+
+.checkbox-label .checkbox-label-disabled-unchecked {
+  color: var(--greyscale-15-50);
+}
+
+.checkbox-label .checkbox-label-loading {
+  color: var(--greyscale-15);
+}
+
+.checkbox-label .checkbox-label-focused-checked {
+  color: var(--greyscale-15);
+}
+
+.checkbox-label .checkbox-label-base-checked {
+  color: var(--greyscale-15);
+}
+
+.checkbox-label .checkbox-label-focused-unchecked {
+  color: var(--greyscale-15);
+}
+
+.checkbox-label .checkbox-label-disabled-checked {
+  color: var(--greyscale-15-50);
+}

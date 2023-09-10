@@ -1,0 +1,444 @@
+.index {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.index .div-2 {
+  background-color: #ffffff;
+  height: 982px;
+  position: relative;
+  width: 1512px;
+}
+
+.index .checkbox-label-instance {
+  height: 47px !important;
+  left: 29px !important;
+  position: absolute !important;
+  top: 310px !important;
+  width: 239px !important;
+}
+
+.index .design-component-instance-node {
+  white-space: unset !important;
+  width: 199px !important;
+}
+
+.index .checkbox-label-2 {
+  height: 48px !important;
+  left: 29px !important;
+  position: absolute !important;
+  top: 369px !important;
+  width: 239px !important;
+}
+
+.index .checkbox-label-3 {
+  height: 47px !important;
+  left: 29px !important;
+  position: absolute !important;
+  top: 429px !important;
+  width: 239px !important;
+}
+
+.index .overlap {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #cccccc;
+  border-radius: 5px;
+  height: 150px;
+  left: 293px;
+  position: absolute;
+  top: 612px;
+  width: 679px;
+}
+
+.index .line {
+  height: 2px;
+  left: 226px;
+  position: absolute;
+  top: 38px;
+  width: 90px;
+}
+
+.index .line-2 {
+  height: 148px;
+  left: 461px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.index .line-3 {
+  height: 2px;
+  left: 226px;
+  position: absolute;
+  top: 103px;
+  width: 90px;
+}
+
+.index .text-wrapper-2 {
+  color: #000000;
+  font-family: "BT Curve-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 544px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 48px;
+}
+
+.index .text-wrapper-3 {
+  color: #000000;
+  font-family: "BT Curve-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 148px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 14px;
+}
+
+.index .text-wrapper-4 {
+  color: #000000;
+  font-family: "BT Curve-Headline", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 184px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 44px;
+}
+
+.index .text-wrapper-5 {
+  color: #000000;
+  font-family: "BT Curve-Headline", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 187px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 107px;
+}
+
+.index .text-wrapper-6 {
+  color: #000000;
+  font-family: "BT Curve-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 148px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 77px;
+}
+
+.index .text-wrapper-7 {
+  color: #000000;
+  font-family: "BT Curve-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 340px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 14px;
+}
+
+.index .text-wrapper-8 {
+  color: #000000;
+  font-family: "BT Curve-Headline", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 340px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 44px;
+}
+
+.index .text-wrapper-9 {
+  color: #000000;
+  font-family: "BT Curve-Headline", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 262px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 16px;
+}
+
+.index .text-wrapper-10 {
+  color: #5514b4;
+  font-family: "BT Curve-Headline", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 259px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 47px;
+}
+
+.index .text-wrapper-11 {
+  color: #000000;
+  font-family: "BT Curve-Headline", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 262px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 81px;
+}
+
+.index .text-wrapper-12 {
+  color: #5514b4;
+  font-family: "BT Curve-Headline", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 259px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 112px;
+}
+
+.index .text-wrapper-13 {
+  color: #000000;
+  font-family: "BT Curve-Headline", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 340px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 107px;
+}
+
+.index .text-wrapper-14 {
+  color: #000000;
+  font-family: "BT Curve-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 340px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 77px;
+}
+
+.index .text-wrapper-15 {
+  color: #000000;
+  font-family: "BT Curve-Headline", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 537px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 33px;
+}
+
+.index .primary-branded-instance {
+  left: 518px !important;
+  position: absolute !important;
+  top: 77px !important;
+}
+
+.index .line-4 {
+  height: 1px;
+  left: 29px;
+  object-fit: cover;
+  position: absolute;
+  top: 490px;
+  width: 250px;
+}
+
+.index .line-5 {
+  height: 1px;
+  left: 29px;
+  object-fit: cover;
+  position: absolute;
+  top: 723px;
+  width: 250px;
+}
+
+.index .text-wrapper-16 {
+  color: #000000;
+  font-family: "BT Curve-Bold", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  left: 29px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 281px;
+  white-space: nowrap;
+}
+
+.index .text-wrapper-17 {
+  color: #000000;
+  font-family: "BT Curve-Bold", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  left: 29px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 512px;
+  white-space: nowrap;
+}
+
+.index .text-wrapper-18 {
+  color: #000000;
+  font-family: "BT Curve-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 838px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 502px;
+}
+
+.index .overlap-group {
+  height: 44px;
+  left: 29px;
+  position: absolute;
+  top: 558px;
+  width: 88px;
+}
+
+.index .text-wrapper-19 {
+  color: #000000;
+  font-family: "BT Curve-Bold", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.index .text-wrapper-20 {
+  color: #000000;
+  font-family: "BT Curve-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 20px;
+  white-space: nowrap;
+}
+
+.index .overlap-2 {
+  height: 44px;
+  left: 29px;
+  position: absolute;
+  top: 636px;
+  width: 88px;
+}
+
+.index .overlap-3 {
+  height: 44px;
+  left: 29px;
+  position: absolute;
+  top: 748px;
+  width: 141px;
+}
+
+.index .text-wrapper-21 {
+  color: #000000;
+  font-family: "BT Curve-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.index .sort-instance {
+  left: 255px !important;
+  top: 291px !important;
+}
+
+.index .sort-2 {
+  left: 255px !important;
+  top: 522px !important;
+}
+
+.index .sort-3 {
+  left: 255px !important;
+  top: 758px !important;
+}
+
+.index .overlap-4 {
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 31px;
+  width: 1512px;
+}
+
+.index .header {
+  background-color: #5514b4;
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1512px;
+}
+
+.index .logo {
+  background-color: #5514b4;
+  height: 60px;
+  width: 90px;
+}
+
+.index .logo-wrapper {
+  background-color: #5514b4;
+  height: 50px;
+  left: 30px;
+  position: relative;
+  top: 5px;
+  width: 40px;
+}
+
+.index .logo-2 {
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 5px;
+  width: 40px;
+}
+
+.index .primary-reversed-instance {
+  left: 1362px !important;
+  position: absolute !important;
+  top: 10px !important;
+}
+
+.index .primary-branded-2 {
+  left: 812px !important;
+  position: absolute !important;
+  top: 531px !important;
+}

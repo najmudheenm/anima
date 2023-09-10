@@ -1,0 +1,1 @@
+export { PrimaryReversed } from "./PrimaryReversed";

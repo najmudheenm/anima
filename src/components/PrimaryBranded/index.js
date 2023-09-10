@@ -1,0 +1,1 @@
+export { PrimaryBranded } from "./PrimaryBranded";
